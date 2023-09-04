@@ -1,0 +1,108 @@
+.a{
+    height: 500px;
+    width: 400px;
+}
+.b{
+
+    text-align: center;
+}
+.trsize
+{
+    width: 100%; 
+   height: 600px;
+  
+}
+.tdsize
+{
+    
+    height: 30px;
+    width: 1000px;
+}
+.buttonalign
+{
+
+    width: 40%;
+    text-align: center;
+
+}
+.searchcenter
+{
+    width: 60%;
+    
+}
+.navbar-center
+{
+   position: absolute;
+   width: 100%;
+   left: 30%;
+   text-align: center;
+   margin: auto;
+}
+.navcolor
+{
+    color: lightcyan;
+}
+.divsizesa
+{
+    width: 40%;
+}
+.divsizesb
+{
+    width: 60%;
+}
+.alignr
+{
+    margin-top: 6px;
+    margin-bottom: 14.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.footdiv
+{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    color: darkgrey;
+    background-color:cyan;
+}
+.inputstyle
+{
+    width: 700px;
+}
+.space
+{
+    width: 20px;
+   
+}
+.queDiv
+{
+    background-color: white;
+    width: 600px;
+}
+
+.editDiv
+{
+    width: 600px;
+
+}
+
+.tablecenter
+{
+    
+    background-color:darkturquoise;
+    width: 650px;
+    align-content: center;
+    
+}
+
+
+.updateDiv
+{
+    color: aqua;
+}
+.tablecolor
+{
+    background-color:azure;
+    width: 650px;
+    align-content: center;
+}
